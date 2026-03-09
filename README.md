@@ -52,6 +52,11 @@ If the data links are broken, redirect the data source settings to the CSV files
 
 Developed by: Mohamed Elbasyouni
 
+
 Role: Junior Data Analyst
 
 Date: March 2026
+
+
+[2.CRM DASHBORD.bmp](https://github.com/user-attachments/files/25849334/2.CRM.DASHBORD.bmp)
+
